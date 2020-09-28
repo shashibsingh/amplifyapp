@@ -68,10 +68,3 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
 # amplifyapp
 Added service role
-Changed node version in build setting
-Changed node version in build setting-2
-Changed node version in build setting-3
-Changed node version in build setting-4
-Changed node version in build setting-5
-Changed node version in build setting-6
-Changed node version in build setting-7
