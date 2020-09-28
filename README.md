@@ -74,3 +74,4 @@ Changed node version in build setting-3
 Changed node version in build setting-4
 Changed node version in build setting-5
 Changed node version in build setting-6
+Changed node version in build setting-7
